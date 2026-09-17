@@ -5,7 +5,7 @@ with open("report.txt", "w") as f:
     f.write("===============================================\n")
     f.write("Total Registered Students: 120\n")
     f.write("Exams Completed: 115\n")
-    f.write("Pending Evaluations: 5\n")
+    f.write("Pending Evaluations: 8\n")
     f.write("System Status: All systems operational.\n")
 
 print("System evaluation report generated successfully.")
